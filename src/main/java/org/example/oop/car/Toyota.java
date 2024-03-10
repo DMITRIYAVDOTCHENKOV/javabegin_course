@@ -1,2 +1,4 @@
-package org.example.oop.car;public class Toyota {
+package org.example.oop.car;
+
+public class Toyota extends Car {
 }
