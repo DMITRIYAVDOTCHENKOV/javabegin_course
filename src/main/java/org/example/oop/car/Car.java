@@ -41,4 +41,9 @@ public class Car extends Transport {
     public void drive() {
         System.out.println(getName() + " Погнал");
     }
+
+    @Override
+    public  void stop(){
+        System.out.println(getName() + " stop" );
+    }
 }
