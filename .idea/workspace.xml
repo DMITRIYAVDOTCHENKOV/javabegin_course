@@ -4,32 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4eabe3e-ce01-43b2-98bc-03d2515c8e02" name="Changes" comment="чекпоинт 3">
-      <change afterPath="$PROJECT_DIR$/checpoint/checpoint_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checpoint/checpoint_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/ARobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/AircraftWing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/IRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/ITechnic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/IWing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/LittleWing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/Robocop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/Terminator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/car/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/car/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/comp/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/comp/IComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/comp/IMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/comp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/comp/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/printer/IPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/printer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/zadachi_oop_java/printer/Printer.java" afterDir="false" />
+    <list default="true" id="f4eabe3e-ce01-43b2-98bc-03d2515c8e02" name="Changes" comment="чекпоинт 4,5">
+      <change afterPath="$PROJECT_DIR$/checpoint/checpoint_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/MapExamples/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/MapExamples/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/QueueExamples/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/QueueExamples/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SetImplementations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SortExamples/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SortExamples/CarNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SortExamples/CarYearComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SortExamples/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/TypeCollection/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/TypeCollection/MiniCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/TypeCollection/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/listCollection/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/listCollection/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/set/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/set/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oop/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/oop/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/oop/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/ARobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/oop/robot/ARobot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,39 +110,42 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CryptoAnalyzer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.lessonComputer.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.lessonComputer.main.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.lessonComputer1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.oop.robot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.oop.zadachi_oop_java.car.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.oop.zadachi_oop_java.comp.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.oop.zadachi_oop_java.computer.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.oop.zadachi_oop_java.printer.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ЗаписнаяКнижка.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/java_Project/javabegin_course/src/main/java/org/example/oop/zadachi_oop_java/printer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CryptoAnalyzer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "Application.org.example.collection.QueueExamples.Start.executor": "Run",
+    "Application.org.example.lessonComputer.Main.executor": "Run",
+    "Application.org.example.lessonComputer.main.Main.executor": "Run",
+    "Application.org.example.lessonComputer1.Main.executor": "Run",
+    "Application.org.example.oop.robot.Main.executor": "Run",
+    "Application.org.example.oop.zadachi_oop_java.car.Main.executor": "Run",
+    "Application.org.example.oop.zadachi_oop_java.comp.Main.executor": "Run",
+    "Application.org.example.oop.zadachi_oop_java.computer.Main.executor": "Run",
+    "Application.org.example.oop.zadachi_oop_java.printer.Main.executor": "Run",
+    "Application.ЗаписнаяКнижка.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/java_Project/javabegin_course/checpoint",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\java_Project\javabegin_course\checpoint" />
       <recent name="D:\Java\java_Project\javabegin_course\src\main\java\org\example\oop\zadachi_oop_java\printer" />
       <recent name="D:\Java\java_Project\javabegin_course\src\main\java\org\example\oop" />
       <recent name="D:\Java\java_Project\javabegin_course\src\main\java\org\example" />
@@ -156,13 +154,13 @@
       <recent name="D:\Java\java_Project\javabegin_course\src\main\java\org\example\oop\zadachi_oop_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.oop.zadachi_oop_java.printer.Main">
-    <configuration name="org.example.oop.robot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.oop.robot.Main" />
+  <component name="RunManager" selected="Application.org.example.collection.QueueExamples.Start">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.set.Start" />
       <module name="javabegin_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.oop.robot.*" />
+          <option name="PATTERN" value="org.example.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.oop.zadachi_oop_java.car.car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.oop.zadachi_oop_java.car.car.Main" />
+    <configuration name="org.example.collection.QueueExamples.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.QueueExamples.Start" />
       <module name="javabegin_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.oop.zadachi_oop_java.car.car.*" />
+          <option name="PATTERN" value="org.example.collection.QueueExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.collection.QueueExamples.Start" />
+        <item itemvalue="Application.Start" />
         <item itemvalue="Application.org.example.oop.zadachi_oop_java.printer.Main" />
         <item itemvalue="Application.org.example.oop.zadachi_oop_java.comp.Main" />
         <item itemvalue="Application.org.example.oop.zadachi_oop_java.computer.Main" />
-        <item itemvalue="Application.org.example.oop.zadachi_oop_java.car.car.Main" />
-        <item itemvalue="Application.org.example.oop.robot.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +263,14 @@
       <workItem from="1710680213657" duration="6228000" />
       <workItem from="1711218782228" duration="4808000" />
       <workItem from="1711302550112" duration="3514000" />
-      <workItem from="1711478619854" duration="1444000" />
+      <workItem from="1711478619854" duration="2174000" />
+      <workItem from="1711901954156" duration="729000" />
+      <workItem from="1712341624058" duration="983000" />
+      <workItem from="1712504734736" duration="2313000" />
+      <workItem from="1712685419734" duration="1382000" />
+      <workItem from="1713467874507" duration="32000" />
+      <workItem from="1713719330978" duration="3200000" />
+      <workItem from="1713801831327" duration="6544000" />
     </task>
     <task id="LOCAL-00001" summary="Добавления гет и сет в проект">
       <option name="closed" value="true" />
@@ -291,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710091751201</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="чекпоинт 4,5">
+      <option name="closed" value="true" />
+      <created>1711481301888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481301888</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +352,7 @@
     <MESSAGE value="Добавления гет и сет в проект" />
     <MESSAGE value="основы синтаксиса" />
     <MESSAGE value="чекпоинт 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="чекпоинт 3" />
+    <MESSAGE value="чекпоинт 4,5" />
+    <option name="LAST_COMMIT_MESSAGE" value="чекпоинт 4,5" />
   </component>
 </project>

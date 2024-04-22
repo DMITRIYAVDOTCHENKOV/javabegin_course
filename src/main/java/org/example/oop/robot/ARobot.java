@@ -41,7 +41,14 @@ public abstract class ARobot implements IRobot, ITechnic {
 
     }
 
-//    @Override
+    @Override
+    public String toString() {
+        return "ARobot{" +
+                "name='" + name + '\'' +
+                ", wing=" + wing +
+                '}';
+    }
+    //    @Override
 //    public void off() {
 //        System.out.println("off");
 //    }
